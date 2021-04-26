@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-kulothanganS
-=======
-kulothangan S
->>>>>>> sub_branch4
